@@ -31,9 +31,9 @@ export default function Home() {
           </div>
           <div className="ml-[-6px] w-full h-[171px] relative">
             <div className="absolute left-0 top-0 w-full h-full flex flex-col items-center justify-center">
-              <button className="hover:opacity-80 active:opacity-60 duration-300 w-[259px] h-[50px] rotate-[3deg] rounded-[100px] bg-[#C9FF5D] border-black border-[2px] text-[16px] font-semibold">
+              <a className="hover:opacity-80 active:opacity-60 duration-300 cursor-pointer w-[259px] h-[50px] flex justify-center items-center rotate-[3deg] rounded-[100px] bg-[#C9FF5D] border-black border-[2px] text-[16px] font-semibold">
                 Join The Waitlist
-              </button>
+              </a>
             </div>
             <BottomBg />
           </div>
