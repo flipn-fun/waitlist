@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Unbounded";
+  src: url("/fonts/Unbounded-VariableFont_wght.ttf");
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #262626;
+  font-family: "Unbounded";
+}
+
+.home-bg {
+  background-image: url("/images/home-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
