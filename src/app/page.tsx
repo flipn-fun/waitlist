@@ -14,8 +14,11 @@ export default function Home() {
           <div className="w-full h-[272px] relative">
             <div className="absolute left-0 top-0 w-full h-full flex flex-col items-center justify-center">
               <Title />
-              <div className="text-[14px] mt-[10px]">Flip🫰, Like🩷, and Ear</div>
-              <div className="mt-[42px] font-semibold">
+              <div className="text-[14px] mt-[10px] text-center w-[298px]">
+                Launch & trade memecoins as easy as scrolling through socials
+                media
+              </div>
+              <div className="mt-[26px] font-semibold">
                 <span className="text-[16px]">Waitlist</span>{" "}
                 <span className="text-[26px]">11,776 +</span>
               </div>
