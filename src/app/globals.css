@@ -18,7 +18,7 @@ body {
   background-color: #262626;
   font-family: "Unbounded";
 }
-
+/* main styles*/
 .home-bg {
   background-image: url("/images/home-bg.png");
   background-size: cover;
