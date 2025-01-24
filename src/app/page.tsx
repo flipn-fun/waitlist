@@ -41,6 +41,13 @@ export default function Home() {
               >
                 Join The Waitlist
               </a>
+              <a
+                href="https://stage.flipn.fun"
+                rel="preload"
+                className="hover:opacity-80 active:opacity-60 duration-300 cursor-pointer text-[#FBCA04] rotate-[3deg] mt-[10px] underline"
+              >
+                Go to FlipN
+              </a>
             </div>
             <BottomBg />
           </div>
