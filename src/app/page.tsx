@@ -20,7 +20,7 @@ export default function Home() {
               </div>
               <div className="mt-[26px] font-semibold">
                 <span className="text-[16px]">Waitlist</span>{" "}
-                <span className="text-[26px]">11,776 +</span>
+                <span className="text-[26px]">6.9k +</span>
               </div>
               <Image
                 src="/images/projects.png"
@@ -41,13 +41,13 @@ export default function Home() {
               >
                 Join The Waitlist
               </a>
-              {/* <a
+              <a
                 href="https://stage.flipn.fun"
                 rel="preload"
                 className="hover:opacity-80 active:opacity-60 duration-300 cursor-pointer text-[#FBCA04] rotate-[3deg] mt-[10px] underline"
               >
                 Go to FlipN
-              </a> */}
+              </a>
             </div>
             <BottomBg />
           </div>
