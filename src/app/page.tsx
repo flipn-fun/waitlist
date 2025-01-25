@@ -15,8 +15,8 @@ export default function Home() {
             <div className="absolute left-0 top-0 w-full h-full flex flex-col items-center justify-center">
               <Title />
               <div className="text-[14px] mt-[10px] text-center w-[298px]">
-                Launch & trade memecoins as easy as scrolling through socials
-                media
+                Launching and trading memecoins, as easy as scrolling through
+                TikTok.
               </div>
               <div className="mt-[26px] font-semibold">
                 <span className="text-[16px]">Waitlist</span>{" "}
