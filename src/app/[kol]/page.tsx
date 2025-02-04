@@ -1,5 +1,5 @@
 import Home from "@/sections/home";
 
-export default function Index() {
+export default function KolPage() {
   return <Home />;
 }
